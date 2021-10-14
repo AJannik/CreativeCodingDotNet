@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D38EAAFA-34D3-43EC-8A7B-7C8B0545EB2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgPixelation", "ImgPixelation\ImgPixelation.csproj", "{51EEEEAB-CDD8-41DF-9135-103580B9CF7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D38EAAFA-34D3-43EC-8A7B-7C8B0545EB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D38EAAFA-34D3-43EC-8A7B-7C8B0545EB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D38EAAFA-34D3-43EC-8A7B-7C8B0545EB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EEEEAB-CDD8-41DF-9135-103580B9CF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EEEEAB-CDD8-41DF-9135-103580B9CF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EEEEAB-CDD8-41DF-9135-103580B9CF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EEEEAB-CDD8-41DF-9135-103580B9CF7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
