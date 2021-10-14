@@ -31,7 +31,7 @@ namespace ImgPixelation
         
         // Animation Controls
         // Activates/ Deactivates Animation
-        private readonly bool doWave = true;
+        private readonly bool animate = true;
         // Wave height
         private readonly float amplitude = 10f;
         // Wave speed
@@ -68,7 +68,7 @@ namespace ImgPixelation
             {
                 Fill(circle.Color);
                 double y = 0;
-                if (doWave)
+                if (animate)
                 {
                     y = Math.Sin(circle.Pos.X * frequency + time * waveSpeed) * amplitude;
                 }
