@@ -1,6 +1,8 @@
 /HelloWorld/bin/
 /packages/
 /HelloWorld/obj/
+*/bin/
+*/obj/
 
 /.idea/.idea.TestCC/.idea/contentModel.xml
 /.idea/.idea.TestCC/.idea/modules.xml
